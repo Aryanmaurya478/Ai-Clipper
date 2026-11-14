@@ -1,0 +1,9 @@
+flask
+yt-dlp
+faster-whisper
+anthropic
+google-genai
+imageio-ffmpeg
+# NVIDIA GPU support for Whisper (CUDA 12 + cuDNN 9). Harmless on PCs without NVIDIA.
+nvidia-cublas-cu12
+nvidia-cudnn-cu12==9.*
